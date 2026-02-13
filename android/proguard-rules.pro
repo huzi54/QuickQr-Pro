@@ -1,0 +1,2 @@
+-keep class com.gal.** { *; }
+-keep class com.devzefa.quickqrpro** { *; }  // Replace with actual package if needed
